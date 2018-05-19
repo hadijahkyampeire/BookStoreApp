@@ -3,6 +3,10 @@ This is an API written in NodeJs. It is a bookstore API that enables a user to a
 
 The video tutorial that can help you come up with a project like this can be found [Here](https://www.youtube.com/watch?v=eB9Fq9I5ocs&t=3022s)
 
+### Requirements
+- Ensure to have mongodb, you can download it [here](https://www.mongodb.com/download-center) 
+- Also install express and create a bookstore database, follow the tutorial [here](https://www.youtube.com/watch?v=eB9Fq9I5ocs&t=3022s)
+
 ### Usage
 Just clone this repo or download it and run **npm install** to install all dependencies.
 After run **node app** or **nodemon** to start.
