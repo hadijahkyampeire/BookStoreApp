@@ -1,5 +1,5 @@
-# BookStoreApi
-This is an API written in NodeJs. It is a bookstore API that enables a user to add books and genres and manipulation. It is consumed by the frontend in AngularJs
+# BookStoreApp
+This is an application with an API written in NodeJs and frontend written in AngularJs. It is a bookstore App that enables a user to add books and genres and manipulation. 
 
 The video tutorial that can help you come up with a project like this can be found [Here](https://www.youtube.com/watch?v=eB9Fq9I5ocs&t=3022s)
 
@@ -16,3 +16,6 @@ You can use Resteasy which is a chrome app or Postman which is also a chrome app
 
 ## Resteasy snapshot
 ![picture](./img/image.png)
+
+## UI first page
+![picture](./img/client.png)
