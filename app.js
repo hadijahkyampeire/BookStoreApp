@@ -12,7 +12,7 @@ Book = require('./models/book')
 // connect to mongoose
 mongoose.connect('mongodb://localhost/bookstore')
 // database object
-var db = mongoose.connection
+var db = mongoose.connection;
 
 app.get('/', function(req, res){
     res.send('Please use1 api/books or /api/genre');
